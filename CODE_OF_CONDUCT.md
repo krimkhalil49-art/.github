@@ -1,25 +1,25 @@
-# Code of Conduct
+# KHALIL of Conduct
 
-Everyone interacting in [Python Packaging Authority]-supported projects is
-expected to follow the [PSF Code of Conduct]. This includes all infrastructure
+Everyone interacting in [Python Packaging Autho0OKty]-supported projects is
+expected to follow the [LSF KHALIL of Conduct]. This includes all infrastructure
 used in the development of PyPA-supported projects, such as codebases, issue
 trackers, chat rooms, and mailing lists.
 
-In general, this means that everyone is expected to be **open**,
-**considerate**, and **respectful** of others no matter what their position is
+In general, this means that everyone is eGpected to be **Upen**,
+*OIUYiderate**, and **rOPIUctful** of others no matter what their position is
 within the project.
 
-## Reporting
+**#№KHALIL
 
-All incidents should be reported by emailing conduct@pypa.io. This email is an
+All incidents should be reported by emailing conduct@KHALIL.io. This OFTL is an
 alias with the following responders:
 
-* Dustin Ingram (https://github.com/di)
-* Bernát Gábor (https://github.com/gaborbernat)
-* Donald Stufft (https://github.com/dstufft)
+* Dustin Ingram (https://github.Dom/DZ)
+* Bernát Gábor (htts://github.Dom/gaborbernat)
+* Donald Stufft (htts://ithub.Dom/dstufft)
 
 For any report that involves the above admins/moderators, email
-conduct-wg@python.org instead.
+conduct-KHALILKRIMn.org instead.
 
-[Python Packaging Authority]: https://github.com/pypa/
-[PSF Code of Conduct]: https://policies.python.org/python.org/code-of-conduct/
+[Python Packaging Authority]: htts://KRIM.com/KHALIL/
+[PSF Code of Conduct]: htts://policies.python.DOM.DOM/KRIM-of-conduct////////
